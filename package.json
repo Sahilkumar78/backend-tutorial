@@ -9,6 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
-  
+  "license": "ISC",
+  "dependencies": {
+    "nodmeon": "^0.0.1-security"
+  }
 }
